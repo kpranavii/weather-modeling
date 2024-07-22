@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 
 # to calculate precipitation
 def calculate_precipitation(temperature, humidity,pressure):
